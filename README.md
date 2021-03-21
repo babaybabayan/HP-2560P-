@@ -1,6 +1,8 @@
 # HP-2560P-
 HP elitebook 2560p
+
 High Sierra 10.13
+
 Working:
 - Light sensor
 - usb
