@@ -14,4 +14,3 @@ Working:
 issue:
 - vga port not working
 - wifi
-- boot from open core?
